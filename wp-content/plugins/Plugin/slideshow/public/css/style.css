@@ -1,0 +1,23 @@
+.ep_slideshow .ep_slides{
+	overflow:hidden;
+	position:relative;
+}
+
+.ep_slideshow a{
+	position:absolute;
+	z-index:0;
+}
+.ep_slideshow a.active{
+	z-index:1;
+}
+
+.ep_pag img{
+	vertical-align:middle;
+}
+
+.ep_circle{
+	display:inline-block;
+	background:url('../img/circle.png');
+	width:15px;
+	height:15px;
+}

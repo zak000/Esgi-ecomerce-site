@@ -1,0 +1,69 @@
+/*
+Theme Name : Zak Them
+Them URI:http://www.saggara.com/zak
+Description:My first ever wordpress them
+Author:zak
+Author URI:https://www.linkedin.com/profile/view?id=333354626&trk=nav_responsive_tab_profile
+Version:0.1
+
+License:
+License URI:
+
+Here are my comments 
+*/
+
+
+body
+{   
+    background : silver;
+    font: 16px solid black;
+    height: 100% 100%;
+}
+
+#container
+{
+    border: 1px solid black;
+    width: 100%;
+    background:white;
+    height: 80px;
+}
+
+footer
+{
+    width: 100% 100%;
+    background:white;
+    color: black;
+    padding: 20px;
+    z-index: 1;
+    margin-top: 625px;
+}
+
+#sidebar
+{
+    border: 1px solid black;
+    float:left;
+    width: 18%;
+    margin-left:0px !important;
+    height: 600px;
+    margin-top: 20px;
+}
+#container1
+{
+    border: 1px solid black;
+    width: 80%;
+    float: right;
+    margin-right:0px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+#container2
+{
+   
+    float: right;
+    border: 1px solid black;
+    margin-top: 20px;
+    width: 80%;
+    height: 200px;
+   
+}

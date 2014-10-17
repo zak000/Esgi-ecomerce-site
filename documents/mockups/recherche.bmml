@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1110" measuredH="578" mockupW="875" mockupH="530">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="484" y="48" w="-1" h="-1" measuredW="357" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recherche%20avanc%E9e</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="235" y="106" w="875" h="472" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="261" y="135" w="833" h="106" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>La%20recherche%20avanc%E9e%20par%20ingr%E9dient%20%20se%20plie%20%E0%20toutes%20vos%20envies%20et%20vous%20propose%20des%20recettes%20adapt%E9es%20%E0%20vos%20go%FBts%20ou%20imp%E9ratifs.%20Qu%27il%20vous%20reste%20des%20jaunes%20d%27oeufs%20inutilis%E9s%20ou%20des%20bananes%20en%20fin%20de%20vie%2C%20que%20vous%20soyez%20%E0%20court%20de%20lait%20ou%20allergique%20aux%20oeufs%2C%20notre%20%20moteur%20de%20recherche%20vous%20permet%20de%20s%E9lectionner%20les%20ingr%E9dients%20que%20vous%20souhaitez%20utiliser%20ou%20non%20dans%20votre%20recette.%20Vous%20pourrez%20ainsi%20facilement%20trouver%20une%20recette%20de%20g%E2teau%20aux%20pommes%20avec%20du%20lait%20mais%20sans%20oeuf.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="261" y="267" w="-1" h="-1" measuredW="208" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choisissez%20un%20ingr%E9dient%20minimum%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="261" y="303" w="399" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="263" y="367" w="-1" h="-1" measuredW="256" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dans%20votre%20recette%20vous%20ne%20voulez%20pas%20de%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="261" y="402" w="399" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="529" y="478" w="261" h="61" measuredW="89" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rechercher</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="267" y="306" w="-1" h="-1" measuredW="136" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Un%20ingr%E9dient%20minimum</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="267" y="405" w="116" h="-1" measuredW="112" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sans%20l%27ingr%E9dient%20...</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

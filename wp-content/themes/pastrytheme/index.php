@@ -13,11 +13,11 @@
 		</div>
 		<div id="content" class="site-content" role="main">
 			<div id ="container1">
-				<h3>container</h3>
+				<h3>Slideshow</h3>
 			</div>
 
 			<div id ="container2">
-				<h3>container</h3>
+				<h3>Our last recipies</h3>
 			</div>
 		</div><!-- #content -->
 	</div><!-- #primary -->

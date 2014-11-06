@@ -6,7 +6,8 @@ body {
 }
 .box,
 #menu,
-#content > div {
+#content #container1,
+#content #container2 {
   border: 1px solid black;
   margin-top: 20px;
 }
@@ -25,11 +26,33 @@ body {
 }
 #content #container1 {
   height: 300px;
+  padding: 0px 10px;
 }
 #content #container2 {
   height: 200px;
+  padding: 0px 10px;
 }
 #footer {
   color: black;
   padding: 10px;
+}
+#container-article,
+#article-text {
+  border: 1px solid black;
+}
+#article-image {
+  width: 20%;
+  height: auto;
+  float: left;
+  margin-top: 5px;
+}
+#article-text {
+  width: 100%;
+  height: auto;
+}
+#container3 {
+  height: 100%;
+}
+h2 {
+  text-align: center;
 }

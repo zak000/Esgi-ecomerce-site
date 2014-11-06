@@ -23,14 +23,36 @@ body {
   width: 80%;
   margin-left: 20px;
   #container1 {
+    &:extend(.box);
     height: 300px;
+    padding: 0px 10px;
   }
   #container2 {
+    &:extend(.box);
     height: 200px;
+    padding: 0px 10px;
   }
 }
-#content > div:extend(.box){}
 #footer {
   color: black;
   padding: 10px;
+}
+#container-article, #article-text {
+  border: 1px solid black;
+}
+#article-image {
+  width: 20%;
+  height: auto;
+  float: left;
+  margin-top: 5px;
+}
+#article-text {
+  width: 100%;
+  height:auto;
+}
+#container3 {
+  height: 100%;
+}
+h2 {
+  text-align: center;
 }

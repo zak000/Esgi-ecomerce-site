@@ -4,7 +4,7 @@
  *	Description: A theme developed by ESGI students
  *	Version: 1.0
  */
-/* =WordPress Core
+/* WordPress Core
 -------------------------------------------------------------- */
 .alignnone {
 	margin: 5px 20px 20px 0;
@@ -17,7 +17,7 @@ div.aligncenter {
 }
 
 .alignright {
-	float:right;
+	float: right;
 	margin: 5px 0 20px 20px;
 }
 
@@ -47,7 +47,7 @@ a img.aligncenter {
 }
 
 .wp-caption {
-	background: #fff;
+	background: #ffffff;
 	border: 1px solid #f0f0f0;
 	max-width: 96%; /* Image does not overflow the content area */
 	padding: 5px 3px 10px;

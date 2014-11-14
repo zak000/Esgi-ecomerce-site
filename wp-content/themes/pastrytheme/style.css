@@ -56,3 +56,11 @@ body {
 h2 {
   text-align: center;
 }
+#the_post {
+  min-height: 350px;
+}
+#the_post img {
+  max-width: 350px;
+  max-height: 350px;
+  float: left;
+}

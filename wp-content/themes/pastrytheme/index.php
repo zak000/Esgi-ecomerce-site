@@ -6,6 +6,7 @@
 		<div id="menu">
 			<?php
 				wp_nav_menu();
+				wp_nav_menu( array( 'theme_location' => 'pastry-menu' ) ); // add pastry's menu
 				if (is_active_sidebar('zone_widget_gauche')):
 					dynamic_sidebar('zone_widget_gauche');
 				endif;

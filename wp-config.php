@@ -22,10 +22,10 @@
 define('DB_NAME', 'wordpress-theme');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'root');
+define('DB_USER', 'esgi');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'esgi');
 
 /** Adresse de l'hébergement MySQL. */
 define('DB_HOST', 'localhost');

@@ -64,3 +64,26 @@ h2 {
   max-height: 350px;
   float: left;
 }
+#the_page {
+  min-height: 550px;
+}
+#the_page img {
+  max-width: 350px;
+  max-height: 550px;
+  float: right;
+  margin: 10px;
+  margin-top: -10px;
+}
+/**
+ * the page404
+ */
+.text-center {
+  text-align: center;
+}
+.cont_404 {
+  padding: 20px;
+}
+.title_post {
+  text-decoration: none;
+  color: #bc360a;
+}

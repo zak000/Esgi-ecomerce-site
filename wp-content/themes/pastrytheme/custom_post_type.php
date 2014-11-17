@@ -1,20 +1,23 @@
 <?php
 
-	add_action('init', 'pastry_type_init');
+	add_action('init' , 'pastry_type_init');
 
-	function pastry_type_init(){
+	function pastry_type_init () {
 		register_post_type(
-			'pastry',
+			'pastry' ,
 			array(
-				'label' => __('Pâtisserie'),
-				'singular_label' => __('Pâtisserie'),
-				'public' => true,
-				'show_ui' => true,
-				'capability_type' => 'post',
-				'hierarchical' => false,
-				'supports' => array('title', 'excerpt', 'thumbnail'),
-				'menu_icon' => 'dashicons-video-alt',
-				'menu_position' => 25
+				'label' => __('Pâtisserie') ,
+				'singular_label' => __('Pâtisserie') ,
+				'public' => true ,
+				'show_ui' => true ,
+				'capability_type' => 'post' ,
+				'hierarchical' => false ,
+				'supports' => array( 'title' , 'editor' , 'excerpt' , 'thumbnail' ) ,
+				'menu_icon' => 'dashicons-video-alt' ,
+				'menu_position' => 15 ,
+				'has_archive' => true ,
+				'rewrite' => array( 'slug' => 'pastries' ) ,
 			)
 		);
 	}
+

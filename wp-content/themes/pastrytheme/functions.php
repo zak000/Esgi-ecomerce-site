@@ -12,6 +12,7 @@
 	}
 
 	include_once('widget.php');
+	include_once('custom_post_type.php');
 
 
 	//add feature image
